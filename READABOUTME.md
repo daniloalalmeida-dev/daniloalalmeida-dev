@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Danilo Almeida.
+- 👀 I’m interested in software development for web and mobile.
+- 🌱 I’m currently learning NodeJs, TypeScript, JavaScript and its frameworks.
+- 💞️ I’m looking to collaborate on Open Source projects and Web developments ideas.
+- 📫 You can to reach me on LinkedIn https://www.linkedin.com/in/danilo-alcidinei-almeida-b758b870/
