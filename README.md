@@ -8,6 +8,6 @@
 
 <div>
 <a href="https://www.linkedin.com/in/danilo-alcidinei-almeida-b758b870/">
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=daniloalalmeida-dev&show_icons=true&theme=merko">
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalalmeida-dev&layout=compact&langs_count=16&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloalalmeida-dev&show_icons=true&theme=merko">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloalalmeida-dev&layout=compact&langs_count=16&theme=merko"/>
 </div>
