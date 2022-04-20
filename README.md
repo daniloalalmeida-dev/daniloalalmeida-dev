@@ -1,6 +1,6 @@
 ## 👋 Olá! I’m Danilo Almeida.
 - 👀 I’m interested in software development for web and mobile.
-- 🌱 I’m currently learning JavaScript, TypeScript, NodeJS, focused in React Native and JS.
+- 🌱 I’m currently learning and working with JavaScript, TypeScript, NodeJS, focused in React Native and JS, and also supporting the backend demands in Java.
 - 💞️ I’m looking to collaborate on Open Source projects and Web developments ideas.
 - 📫 You can to reach me:
 
